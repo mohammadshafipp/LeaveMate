@@ -2,7 +2,7 @@
 
 namespace LeaveMate.Models
 {
-    public class Users : DBModifiers
+    public class UserInfo : DBModifiers
     {
         public int UserID { get; set; }
         public int EmployeeID { get; set; }

@@ -1,10 +1,6 @@
 {
   "Files": [
     {
-      "Id": "D:\\Leave Mate\\LeaveMate\\LeaveMate\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\LeaveMate.bundle.scp.css",
-      "PackagePath": "staticwebassets\\LeaveMate.bundle.scp.css"
-    },
-    {
       "Id": "D:\\Leave Mate\\LeaveMate\\LeaveMate\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
